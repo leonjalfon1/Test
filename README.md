@@ -1,6 +1,7 @@
 AUTOMATIC
 Open Powershell as administrator
 Run: Set-ExecutionPolicy Unrestricted -Force
+Move to the repository root (where the install-hook.ps1 script is located)
 Run: .\install-hooks.ps1
 
 MANUAL
